@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: abb
+Implementation-Vendor-Id: com
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_111
+Main-Class: ${start-class}
+
